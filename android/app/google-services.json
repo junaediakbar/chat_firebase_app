@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624838478202",
+    "project_id": "chat-app-riverpod-5b2b5",
+    "storage_bucket": "chat-app-riverpod-5b2b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624838478202:android:de8bbfd93bcbfc189a6ec3",
+        "android_client_info": {
+          "package_name": "com.example.chat_firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0bIT2DEja24W8uGQuR3SZXHZpfo3ACOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
